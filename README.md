@@ -6,13 +6,6 @@ Transforming data into intelligent, scalable solutions.
 
 ## ⭐ About Me
 I'm a Machine Learning Engineer with hands-on experience in **NLP, Computer Vision (OCR), Time Series Forecasting, Predictive Modeling**, and building **end-to-end ML systems**.  
-I enjoy solving real-world problems using AI and deploying models into practical applications.
-
-📍 **AI Trainee — DEPI** (ML, DL, MLOps, Hugging Face, Azure)  
-📍 **AI Intern — Zewail City** (Applied ML & DL projects)  
-🎓 **B.Sc. Computer Science & Artificial Intelligence – Banha University (GPA 3.33)**
-
----
 
 ## 🔧 Tech Stack
 
